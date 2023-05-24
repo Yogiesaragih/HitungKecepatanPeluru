@@ -1,1 +1,1 @@
-# HitungKecepatanPeluru
+# Hitung Kecepatan Peluru Dengan C++
