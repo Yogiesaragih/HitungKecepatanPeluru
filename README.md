@@ -1,1 +1,1 @@
-# Hitung Kecepatan Peluru Dengan C++
+# Hitung Kecepatan Peluru Dengan bahasa C
